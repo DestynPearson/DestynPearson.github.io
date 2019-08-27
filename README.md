@@ -1,2 +1,2 @@
 # DestynPearson.github.io
-This is a descriptio.
+This is a description.
