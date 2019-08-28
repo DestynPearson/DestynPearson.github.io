@@ -1,12 +1,16 @@
 body {
-background-color: black;
+  background-color: black;
+  background-repeat: no-repeat;
 }
+
 p {
   color: white;
 }
+
 a {
   color: white;
 }
+
 ul {
   color: white;
 }
