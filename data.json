@@ -1,0 +1,8 @@
+{
+"username" : "destynpearson",
+"goals" : [
+  {"goal":"Learn Valuable Skills", "confidence": 100},
+  {"goal":"Participate in Class", "confidence": 75},
+  {"goal":"Pass all exams with at least a B, "confidence": 50"}
+  ]
+ }  
