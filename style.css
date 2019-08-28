@@ -4,6 +4,7 @@ head {
 }
 body {
   background-color: black;
+  background-repeat: no-repeat;
 }
 
 p {
